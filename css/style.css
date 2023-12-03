@@ -9,6 +9,7 @@ html{
 body{ 
     font-family: 'Inter', sans-serif;
     font-family: 'Playfair Display', serif;
+    min-width: 1180px;
 } 
 ul, ol{ 
     list-style-type: none; 
